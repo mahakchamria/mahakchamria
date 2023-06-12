@@ -11,8 +11,7 @@
 
 🌟 I'm excited to collaborate with like-minded individuals and contribute to projects that make a positive impact. Let's connect and create innovative solutions together!
 
-✉️ Feel free to reach out to me at mahakchamria@gmail.com 
-You can also find me on LinkedIn at https://www.linkedin.com/in/mahakchamria.
+✉️ Feel free to reach out to me at mahakchamria@gmail.com
 
 
 <!--

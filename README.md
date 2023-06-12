@@ -1,4 +1,4 @@
-
+<!-- 
 👋 Hello there! I'm Mahak Chamria, a passionate software engineer with a keen interest in DSA, AI and ML, as well as blockchain.
 
 💻 I strive to create efficient and scalable algorithms that solve complex problems. My goal is to contribute to open-source projects that enhance the efficiency and effectiveness of various computational tasks.
@@ -11,7 +11,7 @@
 
 🌟 I'm excited to collaborate with like-minded individuals and contribute to projects that make a positive impact. Let's connect and create innovative solutions together!
 
-✉️ Feel free to reach out to me at mahakchamria@gmail.com
+✉️ Feel free to reach out to me at mahakchamria@gmail.com -->
 
 
 <!--

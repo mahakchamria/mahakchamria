@@ -1,4 +1,4 @@
-Hello Everyone! I'm Mahak Chamria.
+<!-- Hello Everyone! I'm Mahak Chamria. -->
 
 <!-- Programming Languages: HTML, CSS, JavaScript, C++, Python
 Frameworks/Libraries: Bootstrap, jQuery

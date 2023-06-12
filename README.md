@@ -1,3 +1,10 @@
+Hello Everyone! I'm Mahak Chamria.
+
+<!-- Programming Languages: HTML, CSS, JavaScript, C++, Python
+Frameworks/Libraries: Bootstrap, jQuery
+Version Control: Git
+Blockchain: Solidity
+Databases: MySQL -->
 <!-- 
 👋 Hello there! I'm Mahak Chamria, a passionate software engineer with a keen interest in DSA, AI and ML, as well as blockchain.
 

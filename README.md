@@ -18,7 +18,7 @@ Databases: MySQL -->
 
 🌟 I'm excited to collaborate with like-minded individuals and contribute to projects that make a positive impact. Let's connect and create innovative solutions together!
 
-✉️ Feel free to reach out to me at mahakchamria@gmail.com 
+<!--✉️ Feel free to reach out to me at mahakchamria@gmail.com -->
 
 
 <!--
